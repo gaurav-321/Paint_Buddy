@@ -30,4 +30,4 @@ than drawing point by point it draw a number of line to increase the speed.
 ### This is a contributions for open source projects, if you are utilizing this project please give credit to my github Ordinary Pythoneer
 
 
-<video src='https://www.youtube.com/watch?v=FQzssGFmm8k' width=180/>
+[<img src="https://img.youtube.com/vi/FQzssGFmm8k/maxresdefault.jpg" width="50%">](https://youtu.be/FQzssGFmm8k)
